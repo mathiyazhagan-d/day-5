@@ -1,4 +1,4 @@
-All js file are linked in index.html
+#All js file are linked in index.html
 
 
 question no 1 => 1-anonymousAnd_IIFE_Function.js
