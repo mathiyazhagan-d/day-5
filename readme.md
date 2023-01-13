@@ -33,3 +33,8 @@ c.Sum of all numbers in an array
 d.Return all the prime numbers in an array
 
 e.Return all the palindromes in an array
+
+
+## you can see the output console in the netlify link given below
+
+# NETLIFY LINK => <span><a href="https://celadon-marzipan-92b6c0.netlify.app/" target="_blank">click me</a></span>
